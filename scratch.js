@@ -28,3 +28,4 @@ let singleBook = {
 };
 
 Object.values(singleBook).forEach(val => console.log(val));
+
